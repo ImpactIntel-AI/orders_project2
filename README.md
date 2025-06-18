@@ -1,1 +1,1 @@
-# orders_project2
+Analysing retail orders data and consequent visualization of therein.
